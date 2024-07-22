@@ -16,11 +16,11 @@ This is a Flutter-based e-commerce application using the Fake Store API.
 
 1. Clone the repository:
     ```
-    git clone <repository-url>
+    git clone https://github.com/0Tck/flutter_ecommerce.git 
     ```
 2. Navigate to the project directory:
     ```
-    cd ecommerce_app
+    cd flutter_ecommerce
     ```
 3. Install dependencies:
     ```
